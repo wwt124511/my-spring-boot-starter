@@ -1,6 +1,5 @@
-# my-spring-boot-starter
-#我的starter  
-##demo-spring-boot-starter说明： 
+# 我的starter my-spring-boot-starter
+## demo-spring-boot-starter说明： 
     1. starter1： 
         通过注解方式开启starter，@Import(HellowordSelector.class) import注入选择器创建configration。 
         打开注解就注入，不打开就不会注入该类。如果没打开注解而使用了该注解项目启动会报错，说找不到该类，因为没有注入。打开注解就会报错。
@@ -11,4 +10,4 @@
             所有需要根据条件才能加载configration的auto类必须要加到imports文件中，否则都会自动扫描到并且自动创建加载。 
     2. starter2 
     
-##test-spring-boot-starter说明： 
+## test-spring-boot-starter说明： 

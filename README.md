@@ -10,7 +10,7 @@
     &ensp;&ensp;&ensp;&ensp;springboot2.7.0版本开始就不推荐，其中有一项是改变原来的自动化配置注册方式；如果你之前写过相关starter类或者研究过自动化。  
     配置的源码知道，配置自动化配置类需要在META-INF/spring.factories文件中配置配置类，而最新版本是配置  
     META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports文件中配置，不过目前是兼容两种配置模式共存。  
-    所已需要根据条件才能加载configration的auto类必须要加到imports文件中，否则都会自动扫描到并且自动创建加载。  
+    &ensp;&ensp;&ensp;&ensp;所以需要根据条件才能加载configration的auto类必须要加到imports文件中，否则都会自动扫描到并且自动创建加载。  
     
 ## test-spring-boot-starter说明：  
   

@@ -10,7 +10,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.wwt</groupId>
+    <groupId>com.wwt.mystarter</groupId>
     <artifactId>demo-spring-boot-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
     <description>我的starter源码，创建starter的几种方式</description>

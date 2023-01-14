@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/starter1")
 public class Starter1TestController {
 
-    @Autowired
+    @Autowired(required = false)
     private HellowordService hellowordService;
 
     @PostMapping("test01")

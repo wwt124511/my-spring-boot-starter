@@ -1,6 +1,5 @@
 package com.wwt;
 
-import com.wwt.starter.starter1.EnableHelloword;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

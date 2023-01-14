@@ -10,9 +10,6 @@
         <module name="demo-spring-boot-starter" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="my-spring-boot-starter" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

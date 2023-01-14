@@ -1,4 +1,4 @@
-package com.wwt.starter.starter1;
+package com.wwt.starter.starter2;
 
 import org.springframework.context.annotation.Import;
 

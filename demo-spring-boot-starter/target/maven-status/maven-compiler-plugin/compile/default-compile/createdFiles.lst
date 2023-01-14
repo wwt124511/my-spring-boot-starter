@@ -1,5 +1,7 @@
-com/wwt/starter/starter1/HellowordSelector.class
+com/wwt/starter/starter2/EnableHelloword.class
+com/wwt/starter/starter2/HellowordSelector.class
 com/wwt/starter/DemoStarterApplication.class
-com/wwt/starter/starter1/HellowordConfiguration.class
-com/wwt/starter/starter1/HellowordService.class
-com/wwt/starter/starter1/EnableHelloword.class
+com/wwt/starter/starter2/HellowordConfiguration.class
+com/wwt/starter/starter2/HellowordService.class
+com/wwt/starter/starter1/MsgService.class
+com/wwt/starter/starter1/MsgAutoConfiguration.class

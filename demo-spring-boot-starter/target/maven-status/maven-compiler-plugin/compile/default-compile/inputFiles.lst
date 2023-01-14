@@ -1,5 +1,7 @@
-/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter1/HellowordConfiguration.java
-/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter1/HellowordSelector.java
 /Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/DemoStarterApplication.java
-/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter1/HellowordService.java
-/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter1/EnableHelloword.java
+/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter2/HellowordConfiguration.java
+/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter2/HellowordSelector.java
+/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter2/HellowordService.java
+/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter1/MsgAutoConfiguration.java
+/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter2/EnableHelloword.java
+/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter1/MsgService.java

@@ -28,6 +28,11 @@
     &ensp;&ensp;&ensp;&ensp;所以需要根据条件才能加载configration的auto类必须要加到imports文件中，否则都会自动扫描到并且自动创建加载。
     
 3. starter4：  &ensp;**\(2.7版本后新方式\)**  
+    org.springframework.boot.autoconfigure.AutoConfiguration.imports与spring.factories其实作用一样，只是做好不一样。最终的效果都是通过配置他们让配置类根据条件
+    判断是否自动加载进去。  
+    方法：imports + @AutoConfiguration  
+    
+4. starter5：  &ensp;**\(补充starter3方式\)**  
     
 
 ## test-spring-boot-starter说明：  

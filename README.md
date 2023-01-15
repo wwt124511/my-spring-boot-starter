@@ -33,8 +33,8 @@
     方法：imports + @AutoConfiguration  
     
 4. starter5：  &ensp;**\(补充starter3方式\)**  
+    使用ImportBeanDefinitionRegistrar方式直接注册bean到容器中的方式。  
     
-
 ## test-spring-boot-starter说明：  
   
 1. starter1测试  

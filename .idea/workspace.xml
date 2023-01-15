@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d4d0c69-070a-4b3e-b2df-48c165ea7da5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/EnableStarter5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/Starter5ImportBeanDefinitionRegistrar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/Starter5Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter5/TestStarter5Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter5/controller/Starter5TestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,15 +22,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter5/TestStarter5Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="170">
+              <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
               <folding>
                 <element signature="e#386#387#0" expanded="true" />
                 <element signature="e#460#461#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/Starter5ImportBeanDefinitionRegistrar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="91" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="91" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="411">
+                <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -118,7 +135,6 @@
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter2/Starter2Service.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter4/Starter4Service.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter4/Starter4AutoConfiguration.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/EnableStarter5.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/Starter5ImportBeanDefinitionRegistrar.java" />
         <option value="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/Starter5.java" />
@@ -127,6 +143,7 @@
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3Service.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/Starter5Service.java" />
         <option value="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter5/TestStarter5Application.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -200,50 +217,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="starter2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="starter3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="starter4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="starter5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
@@ -468,18 +441,18 @@
       <workItem from="1673774727672" duration="1874000" />
       <workItem from="1673777727560" duration="16000" />
       <workItem from="1673778501816" duration="124000" />
-      <workItem from="1673778643193" duration="8674000" />
+      <workItem from="1673778643193" duration="8908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34347000" />
+    <option name="totallyTimeSpent" value="34581000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25444266" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25444266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -807,16 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="255">
-            <caret line="15" selection-start-line="15" selection-end-line="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter4/TestStarter4Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -860,16 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/Starter5ImportBeanDefinitionRegistrar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -938,12 +891,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter5/TestStarter5Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="170">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
           <folding>
             <element signature="e#386#387#0" expanded="true" />
             <element signature="e#460#461#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/Starter5ImportBeanDefinitionRegistrar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="91" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="91" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="411">
+            <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

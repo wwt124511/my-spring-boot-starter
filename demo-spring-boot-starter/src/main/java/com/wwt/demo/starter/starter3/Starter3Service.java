@@ -9,6 +9,6 @@ package com.wwt.demo.starter.starter3;
 public class Starter3Service {
 
     public void hello(){
-        System.out.println("你好，我是spring-boot-starter!");
+        System.out.println("你好，我是spring-boot-starter3!");
     }
 }

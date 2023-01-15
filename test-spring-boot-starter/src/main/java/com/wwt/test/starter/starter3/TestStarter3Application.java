@@ -1,5 +1,6 @@
 package com.wwt.test.starter.starter3;
 
+import com.wwt.demo.starter.starter3.EnableStarter3;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -9,8 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Description TODO
  * @CreateTime 2023-01-11 23:50
  */
+@EnableStarter3
 @SpringBootApplication
-//@ComponentScan({"com.wwt.starter","com.wwt"}) 测试starter1使用的注解
 public class TestStarter3Application {
 
     public static void main(String[] args) {

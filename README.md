@@ -1,6 +1,6 @@
 # 我的starter my-spring-boot-starter
 ## demo-spring-boot-starter说明：  
-1. starter1：  &ensp;&ensp;**\(直接配置自动话加载方式\)**  
+1. starter1：  &ensp;&ensp;**\(直接配置自动化加载方式\)**  
 
     &ensp;&ensp;&ensp;&ensp;直接在starter里面启动自动配置初始化配置类。但是这种不灵活，引入它的无法对里面的bean重写，重定义。  
     另外springboot默认是只加载启动类根目录下的包及其子包下的东西，如果要让引入的jar（starter）包里面被扫描到需要再配置@ComponentScan({"com.wwt.starter","com.wwt"})。  

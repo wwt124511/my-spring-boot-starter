@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d4d0c69-070a-4b3e-b2df-48c165ea7da5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3AutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3AutoConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring.factories" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter1/TestStarter1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter1/TestStarter1Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter2/TestStarter2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter2/TestStarter2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter3/TestStarter3Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter3/TestStarter3Application.java" afterDir="false" />
-    </list>
+    <list default="true" id="9d4d0c69-070a-4b3e-b2df-48c165ea7da5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/demo-spring-boot-starter/target/" />
@@ -47,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="170">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="340">
+                <caret line="20" column="66" lean-forward="true" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
               </first_editor>
               <second_editor />
             </state>
@@ -484,12 +475,12 @@
       <workItem from="1673774727672" duration="1874000" />
       <workItem from="1673777727560" duration="16000" />
       <workItem from="1673778501816" duration="124000" />
-      <workItem from="1673778643193" duration="6357000" />
+      <workItem from="1673778643193" duration="6657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32030000" />
+    <option name="totallyTimeSpent" value="32330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -532,7 +523,7 @@
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32956383" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30129242" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30129242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -853,8 +844,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="170">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <first_editor relative-caret-position="340">
+            <caret line="20" column="66" lean-forward="true" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
           </first_editor>
           <second_editor />
         </state>

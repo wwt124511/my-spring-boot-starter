@@ -1,9 +1,8 @@
-com/wwt/starter/starter3/HellowordSelector.class
-com/wwt/starter/starter3/EnableHelloword.class
-com/wwt/starter/starter2/Starter2Service.class
-com/wwt/starter/DemoStarterApplication.class
-com/wwt/starter/starter2/Starter2AutoConfiguration.class
-com/wwt/starter/starter3/HellowordService.class
-com/wwt/starter/starter3/HellowordConfiguration.class
-com/wwt/starter/starter1/MsgService.class
-com/wwt/starter/starter1/MsgAutoConfiguration.class
+com/wwt/demo/starter/starter3/Starter3AutoConfiguration.class
+com/wwt/demo/starter/starter1/Starter1Service.class
+com/wwt/demo/starter/starter1/Starter1AutoConfiguration.class
+com/wwt/demo/starter/starter3/Starter3Selector.class
+com/wwt/demo/starter/starter3/EnableStarter3.class
+com/wwt/demo/starter/starter2/Starter2Service.class
+com/wwt/demo/starter/starter3/Starter3Service.class
+com/wwt/demo/starter/starter2/Starter2AutoConfiguration.class

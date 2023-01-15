@@ -1,2 +1,3 @@
-#org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-#com.wwt.starter.starter2.Starter2AutoConfiguration
+#starter2使用的配置
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.wwt.demo.starter.starter2.Starter2AutoConfiguration

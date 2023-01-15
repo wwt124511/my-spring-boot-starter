@@ -3,6 +3,8 @@
 /Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter2/Starter2Service.java
 /Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3AutoConfiguration.java
 /Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3Selector.java
+/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter4/Starter4AutoConfiguration.java
 /Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter1/Starter1AutoConfiguration.java
+/Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter4/Starter4Service.java
 /Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter2/Starter2AutoConfiguration.java
 /Users/wwt/MyGitHub/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/EnableStarter3.java

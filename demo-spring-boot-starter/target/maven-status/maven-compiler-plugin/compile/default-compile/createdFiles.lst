@@ -1,8 +1,10 @@
 com/wwt/demo/starter/starter3/Starter3AutoConfiguration.class
 com/wwt/demo/starter/starter1/Starter1Service.class
 com/wwt/demo/starter/starter1/Starter1AutoConfiguration.class
+com/wwt/demo/starter/starter4/Starter4AutoConfiguration.class
 com/wwt/demo/starter/starter3/Starter3Selector.class
 com/wwt/demo/starter/starter3/EnableStarter3.class
 com/wwt/demo/starter/starter2/Starter2Service.class
+com/wwt/demo/starter/starter4/Starter4Service.class
 com/wwt/demo/starter/starter3/Starter3Service.class
 com/wwt/demo/starter/starter2/Starter2AutoConfiguration.class

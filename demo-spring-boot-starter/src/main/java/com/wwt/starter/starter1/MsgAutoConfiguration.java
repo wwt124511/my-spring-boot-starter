@@ -7,15 +7,16 @@ import org.springframework.context.annotation.Configuration;
 /**
  * @Author wwt
  * @ClassName MsgAutoConfiguration.java
- * @Description TODO
+ * @Description 测试
  * @CreateTime 2023-01-14 22:55
  */
 @Configuration
+@ConditionalOnMissingClass({"com.wwt.starter.starter1.InitMsg"})
 public class MsgAutoConfiguration {
 
     @Bean
-    @ConditionalOnMissingClass({"com.wwt.starter.starter1.MsgService"})
     public MsgService msgService(){
+        System.out.println("初始化MsgService");
         return new MsgService();
     }
 }

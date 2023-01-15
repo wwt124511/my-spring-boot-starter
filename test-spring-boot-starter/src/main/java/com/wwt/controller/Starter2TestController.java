@@ -1,7 +1,8 @@
 package com.wwt.controller;
 
-import com.wwt.starter.starter2.HellowordService;
+import com.wwt.starter.starter1.MsgService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.ApplicationContext;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -16,12 +17,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/starter2")
 public class Starter2TestController {
 
-    @Autowired(required = false)
-    private HellowordService hellowordService;
+    @Autowired
+    private ApplicationContext applicationContext;
 
     @PostMapping("test0201")
     public Object test01(){
-        hellowordService.hello();
-        return "";
+
+        MsgService msgService = applicationContext.getBean(MsgService.class);
+        System.out.println("msgService=" + msgService);
+        return "成功";
     }
 }

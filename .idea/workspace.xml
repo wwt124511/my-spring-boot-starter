@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d4d0c69-070a-4b3e-b2df-48c165ea7da5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/InitStarter6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter7/Starter7AutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter7/Starter7Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter6/TestStarter6Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter6/controller/Starter6TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter7/TestStarter7Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter7/config/MyStarter7AutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter7/controller/Starter7TestController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6AutoConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6AutoConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -48,14 +36,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter7/config/MyStarter7AutoConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+            <state relative-caret-position="323">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="113">
+                <caret line="42" column="91" selection-start-line="42" selection-start-column="91" selection-end-line="42" selection-end-column="91" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -126,13 +126,13 @@
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6AutoConfiguration.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6Service.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/InitStarter6.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter7/TestStarter7Application.java" />
         <option value="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter7/controller/Starter7TestController.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter7/Starter7Service.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter7/Starter7AutoConfiguration.java" />
         <option value="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter7/config/MyStarter7AutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -208,23 +208,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="starter" type="462c0819:PsiDirectoryNode" />
-              <item name="starter7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
@@ -438,18 +421,18 @@
       <workItem from="1673777727560" duration="16000" />
       <workItem from="1673778501816" duration="124000" />
       <workItem from="1673778643193" duration="9260000" />
-      <workItem from="1673856279506" duration="7802000" />
+      <workItem from="1673856279506" duration="7851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42735000" />
+    <option name="totallyTimeSpent" value="42784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2714055" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2714055" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -460,7 +443,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42465752" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.44520548" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44520548" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -859,16 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="402">
-            <caret line="59" column="15" lean-forward="true" selection-start-line="59" selection-start-column="15" selection-end-line="59" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6AutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -968,11 +941,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter7/config/MyStarter7AutoConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="323">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="113">
+            <caret line="42" column="91" selection-start-line="42" selection-start-column="91" selection-end-line="42" selection-end-column="91" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

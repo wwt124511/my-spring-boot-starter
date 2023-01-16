@@ -40,7 +40,7 @@
     
 6. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingClass注解\)**  
 
-7. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingBean注解\)**  &ensp;重要，常用!!!&ensp;
+7. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingBean注解\)**  &ensp;重要，常用!!!&ensp;  
     &ensp;&ensp;&ensp;&ensp;通常springboot的插件都是使用这种方式来创建默认的bean配置。
 
 

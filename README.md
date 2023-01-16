@@ -36,8 +36,9 @@
     使用ImportBeanDefinitionRegistrar方式直接注册bean到容器中的方式。  
     
 ## test-spring-boot-starter说明：  
-    **测试以上自定义starter**  
-    
-    1. starter1测试  
-
-    2. starter2测试  
+  
+  **测试以上自定义starter**  
+  
+  1. starter1测试  
+  
+  2. starter2测试  

@@ -40,5 +40,13 @@
   &ensp;&ensp;**测试以上自定义starter**  
   
   1. starter1测试  
+    &ensp;&ensp;&ensp;&ensp;测试通过自动化配置&ensp;+&ensp;扫描方式自定义starter
   
   2. starter2测试  
+    &ensp;&ensp;&ensp;&ensp;测试通过spring.factories方式自定义starter  
+
+  3. starter3测试  
+    &ensp;&ensp;&ensp;&ensp;测试通过2.7版本后新方式（imports）自定义starter  
+
+  4. starter4测试  
+    &ensp;&ensp;&ensp;&ensp;测试通过补充starter3方式自定义starter

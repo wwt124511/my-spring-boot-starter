@@ -13,6 +13,7 @@
     <groupId>com.wwt.mystarter</groupId>
     <artifactId>demo-spring-boot-starter</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
     <description>我的starter源码，创建starter的几种方式</description>
 
     <dependencies>

@@ -27,28 +27,44 @@
     META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports文件中配置，不过目前是**兼容两种配置模式共存**。  
     &ensp;&ensp;&ensp;&ensp;所以需要根据条件才能加载configration的auto类必须要加到imports文件中，否则都会自动扫描到并且自动创建加载。
     
-3. starter4：  &ensp;**\(2.7版本后新方式\)**  
+4. starter4：  &ensp;**\(2.7版本后新方式\)**  
     org.springframework.boot.autoconfigure.AutoConfiguration.imports与spring.factories其实作用一样，只是做好不一样。最终的效果都是通过配置他们让配置类根据条件
     判断是否自动加载进去。  
     方法：imports + @AutoConfiguration  
     
-4. starter5：  &ensp;**\(补充starter3方式\)**  
+5. starter5：  &ensp;**\(补充starter3方式\)**  
     使用ImportBeanDefinitionRegistrar方式直接注册bean到容器中的方式。  
 
-4. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingClass注解\)**  
+6. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingClass注解\)**  
+    &ensp;&ensp;&ensp;&ensp;不要使用即将创建对象的类去做条件，否则永远不成立。要使用另外一个类去开启。
     
+6. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingClass注解\)**  
+
+7. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingBean注解\)**  &ensp;重要，常用!!!&ensp;
+    &ensp;&ensp;&ensp;&ensp;通常springboot的插件都是使用这种方式来创建默认的bean配置。
+
+
 ## test-spring-boot-starter说明：  
   
-  &ensp;&ensp;**测试以上自定义starter**  
-  
-  1. starter1测试  
-    &ensp;&ensp;&ensp;&ensp;测试通过自动化配置&ensp;+&ensp;扫描方式自定义starter
-  
-  2. starter2测试  
-    &ensp;&ensp;&ensp;&ensp;测试通过spring.factories方式自定义starter  
+&ensp;&ensp;**测试以上自定义starter**  
 
-  3. starter3测试  
-    &ensp;&ensp;&ensp;&ensp;测试通过2.7版本后新方式（imports）自定义starter  
+1. starter1测试  
+&ensp;&ensp;&ensp;&ensp;测试通过自动化配置&ensp;+&ensp;扫描方式自定义starter
 
-  4. starter4测试  
-    &ensp;&ensp;&ensp;&ensp;测试通过补充starter3方式自定义starter
+2. starter2测试  
+&ensp;&ensp;&ensp;&ensp;测试通过spring.factories方式自定义starter  
+
+3. starter3测试  
+&ensp;&ensp;&ensp;&ensp;测试通过2.7版本后新方式（imports）自定义starter  
+
+4. starter4测试  
+&ensp;&ensp;&ensp;&ensp;测试通过补充starter3方式自定义starter  
+
+5. starter5测试  
+使用ImportBeanDefinitionRegistrar方式直接注册bean到容器中的方式。  
+
+6. starter6测试  
+&ensp;&ensp;&ensp;&ensp;不要使用即将创建对象的类去做条件，否则永远不成立。要使用另外一个类去开启。  
+
+7. starter7测试  
+&ensp;&ensp;&ensp;&ensp;测试@ConditionalOnMissingBean注解。

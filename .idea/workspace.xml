@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d4d0c69-070a-4b3e-b2df-48c165ea7da5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6AutoConfiguration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,10 +27,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="564">
-                <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+              <first_editor relative-caret-position="377">
+                <caret line="40" column="2" lean-forward="true" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6AutoConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -56,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test-spring-boot-starter/pom.xml" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter3/HellowordSelector.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter3/HellowordService.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter2/Starter2Service.java" />
@@ -106,6 +115,7 @@
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/Starter3Service.java" />
         <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/Starter5Service.java" />
         <option value="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter5/TestStarter5Application.java" />
+        <option value="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6AutoConfiguration.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -192,6 +202,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="starter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demo-spring-boot-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="starter" type="462c0819:PsiDirectoryNode" />
+              <item name="starter4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-spring-boot-starter" type="b2602c69:ProjectViewProjectNode" />
@@ -391,18 +410,18 @@
       <workItem from="1673777727560" duration="16000" />
       <workItem from="1673778501816" duration="124000" />
       <workItem from="1673778643193" duration="9260000" />
-      <workItem from="1673856279506" duration="1012000" />
+      <workItem from="1673856279506" duration="1908000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35945000" />
+    <option name="totallyTimeSpent" value="36841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2584814" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2657512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -485,7 +504,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter1/HellowordConfiguration.java" />
     <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter2/EnableHelloword.java" />
     <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter2/HellowordSelector.java" />
     <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter2/HellowordService.java" />
@@ -838,11 +856,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6AutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="564">
-            <caret line="51" column="44" selection-start-line="51" selection-start-column="44" selection-end-line="51" selection-end-column="44" />
+          <first_editor relative-caret-position="377">
+            <caret line="40" column="2" lean-forward="true" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>

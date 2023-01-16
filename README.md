@@ -34,6 +34,8 @@
     
 4. starter5：  &ensp;**\(补充starter3方式\)**  
     使用ImportBeanDefinitionRegistrar方式直接注册bean到容器中的方式。  
+
+4. starter6：  &ensp;**\(imports方式，测试&ensp; @ConditionalOnMissingClass &ensp;注解\)**  
     
 ## test-spring-boot-starter说明：  
   

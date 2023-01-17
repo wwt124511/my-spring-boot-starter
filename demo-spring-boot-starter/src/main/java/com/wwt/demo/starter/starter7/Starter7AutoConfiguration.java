@@ -13,10 +13,11 @@ import org.springframework.context.annotation.Bean;
  */
 @Slf4j
 @AutoConfiguration
-@ConditionalOnMissingBean(name = "starter7Service")
+//@ConditionalOnMissingBean(name = "starter7Service")
 public class Starter7AutoConfiguration {
 
     @Bean
+    @ConditionalOnMissingBean(name = "starter7Service")
     public Starter7Service starter7Service(){
         log.info("=============容器初始化Starter7Service==============");
         return new Starter7Service();

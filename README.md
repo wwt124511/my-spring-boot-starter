@@ -38,9 +38,10 @@
 6. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingClass注解\)**  
     &ensp;&ensp;&ensp;&ensp;不要使用即将创建对象的类去做条件，否则永远不成立。要使用另外一个类去开启。
     
-6. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingClass注解\)**  
+7. starter7：  &ensp;**\(imports方式，测试@ConditionalOnMissingBean注解\)**  
+    &ensp;&ensp;&ensp;&ensp;外部如果需要覆盖自定义配置，需要用@Configuration注解，不能使用@AutoConfiguration  
 
-7. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingBean注解\)**  &ensp;重要，常用!!!&ensp;  
+8. starter8：  &ensp;**\(imports方式，测试@ConditionalOnMissingBean注解\)**  &ensp;重要，常用!!!&ensp;  
     &ensp;&ensp;&ensp;&ensp;通常springboot的插件都是使用这种方式来创建默认的bean配置。
 
 

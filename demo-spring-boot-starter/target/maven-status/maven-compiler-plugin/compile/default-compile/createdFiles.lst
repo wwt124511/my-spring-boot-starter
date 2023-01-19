@@ -1,6 +1,9 @@
 com/wwt/demo/starter/starter3/Starter3AutoConfiguration.class
 com/wwt/demo/starter/starter1/Starter1Service.class
+com/wwt/demo/starter/starter8/Starter8AutoConfiguration.class
+com/wwt/demo/starter/starter8/Starter8Service.class
 com/wwt/demo/starter/starter3/EnableStarter3.class
+com/wwt/demo/starter/starter8/InitStarter8Service.class
 com/wwt/demo/starter/starter7/Starter7AutoConfiguration.class
 com/wwt/demo/starter/starter2/Starter2Service.class
 com/wwt/demo/starter/starter4/Starter4Service.class
@@ -10,8 +13,10 @@ com/wwt/demo/starter/starter5/Starter5ImportBeanDefinitionRegistrar.class
 com/wwt/demo/starter/starter5/EnableStarter5.class
 com/wwt/demo/starter/starter1/Starter1AutoConfiguration.class
 com/wwt/demo/starter/starter6/Starter6AutoConfiguration.class
-com/wwt/demo/starter/starter4/Starter4AutoConfiguration.class
 com/wwt/demo/starter/starter3/Starter3Selector.class
+com/wwt/demo/starter/starter4/Starter4AutoConfiguration.class
+com/wwt/demo/starter/starter9/Starter9Service.class
 com/wwt/demo/starter/starter3/Starter3Service.class
+com/wwt/demo/starter/starter9/Starter9AutoConfiguration.class
 com/wwt/demo/starter/starter5/Starter5Service.class
 com/wwt/demo/starter/starter7/Starter7Service.class

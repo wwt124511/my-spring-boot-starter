@@ -37,12 +37,15 @@
 
 6. starter6：  &ensp;**\(imports方式，测试@ConditionalOnMissingClass注解\)**  
     &ensp;&ensp;&ensp;&ensp;不要使用即将创建对象的类去做条件，否则永远不成立。要使用另外一个类去开启。
-    
-7. starter7：  &ensp;**\(imports方式，测试@ConditionalOnMissingBean注解\)**  &ensp;重要，常用!!!&ensp;  
-    &ensp;&ensp;&ensp;&ensp;通常springboot的插件都是使用这种方式来创建默认的bean配置。
-    &ensp;&ensp;&ensp;&ensp;外部如果需要覆盖自定义配置，需要用@Configuration注解，不能使用@AutoConfiguration  
 
-8. starter8：  &ensp;**\(imports方式，测试@ConditionalOnClass注解\)**  &ensp;重要，常用!!!&ensp;  
+7. starter7：  &ensp;**\(imports方式，测试@ConditionalOnMissingBean注解\)**  &ensp;重要，常用!!!&ensp;  
+   &ensp;&ensp;&ensp;&ensp;通常springboot的插件都是使用这种方式来创建默认的bean配置。
+   &ensp;&ensp;&ensp;&ensp;外部如果需要覆盖自定义配置，需要用@Configuration注解，不能使用@AutoConfiguration
+
+8. starter8：  &ensp;**\(imports方式，测试@ConditionalOnClass注解\)**  不常用
+
+9. starter9：  &ensp;**\(imports方式，测试@ConditionalOnProperty注解\)**  &ensp;重要，常用!!!&ensp;
+   &ensp;&ensp;&ensp;&ensp;指定参数的值符合要求时，配置才生效
     
 
 
@@ -69,4 +72,10 @@
 &ensp;&ensp;&ensp;&ensp;不要使用即将创建对象的类去做条件，否则永远不成立。要使用另外一个类去开启。  
 
 7. starter7测试  
-&ensp;&ensp;&ensp;&ensp;测试@ConditionalOnMissingBean注解。
+   &ensp;&ensp;&ensp;&ensp;测试@ConditionalOnMissingBean注解。
+
+8. starter8测试  
+   &ensp;&ensp;&ensp;&ensp;测试@ConditionalOnClass注解。
+
+9. starter9测试  
+   &ensp;&ensp;&ensp;&ensp;测试@ConditionalOnProperty注解。

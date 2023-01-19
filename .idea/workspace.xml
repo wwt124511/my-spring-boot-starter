@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d4d0c69-070a-4b3e-b2df-48c165ea7da5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter8/InitStarter8Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter8/Starter8AutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter8/Starter8Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter9/Starter9AutoConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter9/Starter9Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/target/demo-spring-boot-starter-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/target/demo-spring-boot-starter-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +270,7 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter",
+    "last_opened_file_path": "/home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/test-spring-boot-starter/src/main/java/com/wwt/test/starter",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -289,11 +279,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter" />
       <recent name="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter" />
       <recent name="$PROJECT_DIR$/test-spring-boot-starter/src/main/resources" />
       <recent name="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter2" />
       <recent name="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources" />
-      <recent name="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/starter/starter1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF" />
@@ -404,7 +394,7 @@
       <workItem from="1673778501816" duration="124000" />
       <workItem from="1673778643193" duration="9260000" />
       <workItem from="1673856279506" duration="12854000" />
-      <workItem from="1674143112213" duration="1132000" />
+      <workItem from="1674143112213" duration="1310000" />
     </task>
     <servers />
   </component>

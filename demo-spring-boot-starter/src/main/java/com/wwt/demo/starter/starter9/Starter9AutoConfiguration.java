@@ -13,7 +13,9 @@ import org.springframework.context.annotation.Bean;
  */
 @Slf4j
 @AutoConfiguration
-@ConditionalOnProperty(prefix = "com.wwt", name = "login", havingValue = "true")
+//havingValue  可与name组合使用，比较获取到的属性值与havingValue给定的值是否相同，相同才加载配置
+//matchIfMissing  缺少该配置属性时是否可以加载。如果为true，没有该配置属性时也会正常加载；反之则不会生效
+@ConditionalOnProperty(prefix = "com.wwt", name = "starter9", havingValue = "true")
 public class Starter9AutoConfiguration {
 
     @Bean

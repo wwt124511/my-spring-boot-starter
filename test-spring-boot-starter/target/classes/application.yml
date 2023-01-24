@@ -1,2 +1,6 @@
 server:
   port: 8001
+## starter9配置  通过配置属性来初始化配置
+com:
+  wwt:
+    starter9: true

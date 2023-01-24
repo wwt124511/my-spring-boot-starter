@@ -48,7 +48,7 @@
    &ensp;&ensp;&ensp;&ensp;指定参数的值符合要求时，配置才生效
     通过配置属性来启动配置，没有自动提示  
 
-10. starter9：  &ensp;**\(imports方式，测试@ConditionalOnProperty注解\)**  &ensp;重要，常用!!!&ensp;  
+10. starter10：  &ensp;**\(imports方式，测试@ConditionalOnProperty注解\)**  &ensp;重要，常用!!!&ensp;  
     &ensp;&ensp;&ensp;&ensp;指定参数的值符合要求时，配置才生效
     通过配置属性来启动配置，有自动提示
     
@@ -85,5 +85,5 @@
 9. starter9测试  
    &ensp;&ensp;&ensp;&ensp;测试@ConditionalOnProperty注解。  
 
-10. starter9测试  
+10. starter10测试  
    &ensp;&ensp;&ensp;&ensp;测试@ConditionalOnProperty注解。  

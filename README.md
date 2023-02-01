@@ -55,7 +55,7 @@
     通过类来映射配置文件属性来做，这种方式可以配置自动提示  
     因为pom.xml中引入了spring-boot-configuration-processor  
 
-11. starter11：  &ensp;**\(imports方式，测试@ConditionalOnResource\)**
+11. starter11：  &ensp;**\(imports方式，测试@ConditionalOnResource\)**  
     类路径下有某个文件资源时，自动加载配置文件  
 
 

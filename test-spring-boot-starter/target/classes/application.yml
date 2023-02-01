@@ -1,6 +1,11 @@
 server:
   port: 8001
 ## starter9配置  通过配置属性来初始化配置
-com:
-  wwt:
-    starter9: true
+#com:
+#  wwt:
+#    starter9: true
+
+## starter10配置  可以自动提示 因为starter的pom.xml 引入了 spring-boot-configuration-processor
+spring:
+  starter10:
+    name: wangwentao

@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "spring.starter10",
+      "type": "com.wwt.demo.starter.starter10.Starter10Properties",
+      "sourceType": "com.wwt.demo.starter.starter10.Starter10Properties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.starter10.name",
+      "type": "java.lang.String",
+      "sourceType": "com.wwt.demo.starter.starter10.Starter10Properties"
+    }
+  ],
+  "hints": []
+}

@@ -5,4 +5,6 @@
 #starter7使用
 #com.wwt.demo.starter.starter7.Starter7AutoConfiguration
 #starter9使用
-com.wwt.demo.starter.starter9.Starter9AutoConfiguration
+#com.wwt.demo.starter.starter9.Starter9AutoConfiguration
+#starter10使用
+com.wwt.demo.starter.starter10.Starter10AutoConfiguration

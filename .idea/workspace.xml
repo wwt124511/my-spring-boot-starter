@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d4d0c69-070a-4b3e-b2df-48c165ea7da5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter10/Starter10AutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter10/Starter10Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter10/Starter10Properties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter10/Starter10Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter10/TestStarter10Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/java/com/wwt/test/starter/starter10/controller/Starter10TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/target/classes/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/target/demo-spring-boot-starter-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/target/demo-spring-boot-starter-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/demo-spring-boot-starter/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-spring-boot-starter/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test-spring-boot-starter/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-spring-boot-starter/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test-spring-boot-starter/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -268,6 +282,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -279,10 +294,10 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "settings.editor.selected.configurable": "MavenSettings",
     "spring.configuration.checksum": "0dcf218af1b3a0b2c17b3287ba2f255c",
     "vue.rearranger.settings.migration": "true"
   }
@@ -299,14 +314,14 @@
       <recent name="$PROJECT_DIR$/demo-spring-boot-starter/src/main/resources/META-INF" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wwt.test.starter.starter10.controller" />
+      <recent name="com.wwt.test.starter.starter10" />
+      <recent name="com.wwt.demo.starter.starter10" />
       <recent name="com.wwt.test.starter.starter7.controller" />
       <recent name="com.wwt.test.starter.starter6" />
-      <recent name="com.wwt.test.starter.starter5.controller" />
-      <recent name="com.wwt.test.starter.starter5" />
-      <recent name="com.wwt.test.starter.starter4.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.TestStarter9Application">
+  <component name="RunManager" selected="Spring Boot.TestStarter10Application">
     <configuration name="MyStarter7AutoConfiguration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.wwt.test.starter.starter7.config.MyStarter7AutoConfiguration" />
       <module name="test-spring-boot-starter" />
@@ -320,12 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStarter5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="TestStarter10Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="test-spring-boot-starter" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wwt.test.starter.starter5.TestStarter5Application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wwt.test.starter.starter10.TestStarter10Application" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.wwt.test.starter.starter5.*" />
+          <option name="PATTERN" value="com.wwt.test.starter.starter10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,11 +389,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.TestStarter10Application" />
         <item itemvalue="Spring Boot.TestStarter9Application" />
         <item itemvalue="Spring Boot.TestStarter7Application" />
         <item itemvalue="Application.MyStarter7AutoConfiguration" />
         <item itemvalue="Spring Boot.TestStarter6Application" />
-        <item itemvalue="Spring Boot.TestStarter5Application" />
       </list>
     </recent_temporary>
   </component>
@@ -406,6 +421,7 @@
       <workItem from="1673856279506" duration="12854000" />
       <workItem from="1674143112213" duration="1310000" />
       <workItem from="1674543386360" duration="1039000" />
+      <workItem from="1675234380239" duration="4500000" />
     </task>
     <servers />
   </component>

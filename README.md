@@ -90,7 +90,8 @@
 9. starter9测试  
    &ensp;&ensp;&ensp;&ensp;测试@ConditionalOnProperty注解。  
 
-10. 测试@ConditionalOnClass &ensp; + &ensp; 类注解&ensp; idea的yml有自动提示  
+10. starter10测试  
+   测试@ConditionalOnClass &ensp; + &ensp; 类注解&ensp; idea的yml有自动提示  
 
-11. 测试@ConditionalOnResource  
-    类路径下有某个文件资源时，自动加载配置文件  
+11. starter11测试  
+    测试@ConditionalOnResource &ensp; 类路径下有某个文件资源时，自动加载配置文件  

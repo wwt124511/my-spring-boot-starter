@@ -90,7 +90,6 @@
 9. starter9测试  
    &ensp;&ensp;&ensp;&ensp;测试@ConditionalOnProperty注解。  
 
-10. starter10测试  
-   &ensp;&ensp;&ensp;&ensp;测试@ConditionalOnProperty注解。  
+10. 测试@ConditionalOnClass &ensp; + &ensp; 类注解&ensp; idea的yml有自动提示  
 
-11. 测试@ConditionalOnClass &ensp; + &ensp; 类注解&ensp; idea的yml有自动提示
+11. 

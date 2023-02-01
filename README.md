@@ -53,6 +53,7 @@
     &ensp;&ensp;&ensp;&ensp;指定参数的值符合要求时，配置才生效
     通过配置属性来启动配置，有自动提示  
     通过类来映射配置文件属性来做，这种方式可以配置自动提示  
+    因为pom.xml中引入了spring-boot-configuration-processor  
 
 11. 
     
@@ -91,3 +92,5 @@
 
 10. starter10测试  
    &ensp;&ensp;&ensp;&ensp;测试@ConditionalOnProperty注解。  
+
+11. 测试@ConditionalOnClass &ensp; + &ensp; 类注解&ensp; idea的yml有自动提示

@@ -22,6 +22,8 @@ com/wwt/demo/starter/starter2/Starter2AutoConfiguration.class
 com/wwt/demo/starter/starter5/Starter5ImportBeanDefinitionRegistrar.class
 com/wwt/demo/starter/starter1/Starter1AutoConfiguration.class
 com/wwt/demo/starter/starter3/Starter3Selector.class
+com/wwt/demo/starter/starter11/Starter11AutoConfiguration.class
+com/wwt/demo/starter/starter11/Starter11Service.class
 com/wwt/demo/starter/starter3/Starter3Service.class
 com/wwt/demo/starter/starter9/Starter9AutoConfiguration.class
 com/wwt/demo/starter/starter7/Starter7Service.class

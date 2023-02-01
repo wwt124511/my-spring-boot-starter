@@ -1,4 +1,5 @@
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter3/EnableStarter3.java
+/home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter11/Starter11Service.java
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter2/Starter2Service.java
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter5/Starter5Service.java
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter9/Starter9AutoConfiguration.java
@@ -16,6 +17,7 @@
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/InitStarter6.java
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter1/Starter1AutoConfiguration.java
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter6/Starter6Service.java
+/home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter11/Starter11AutoConfiguration.java
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter9/Starter9Service.java
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter10/Starter10Properties.java
 /home/deepin-wwt/software/workspace/mygitlab/my-spring-boot-starter/demo-spring-boot-starter/src/main/java/com/wwt/demo/starter/starter1/Starter1Service.java
